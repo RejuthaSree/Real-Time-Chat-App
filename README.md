@@ -106,10 +106,10 @@ src/
 ## 📸 Screenshots
 
 ### 💬 Chat UI
-![Chat UI](Real-time-messaging.png)
+<img src="Real-time-messaging.png" width="400"/>
 
 ### 🗄️ Database (PostgreSQL)
-![Database](DB.png)
+<img src="DB.png" width="400"/>
 
 ## 🔮 Future Improvements
 
