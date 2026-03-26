@@ -103,6 +103,13 @@ src/
    ```
 
 ---
+## 📸 Screenshots
+
+### 💬 Chat UI
+![Chat UI](Real-time-messaging.png)
+
+### 🗄️ Database (PostgreSQL)
+![Database](DB.png)
 
 ## 🔮 Future Improvements
 
