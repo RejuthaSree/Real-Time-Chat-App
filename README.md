@@ -118,7 +118,3 @@ src/
 **Rejuthasree M**
 
 ---
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
